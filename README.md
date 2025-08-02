@@ -78,7 +78,7 @@ Sample test (in `test/widget_test.dart`) checks if tasks are added successfully.
 
 ##  Author
 
-**Your Name**  
+**Muhammad Faseeh Anjum**  
 [GitHub](https://github.com/FaseehAnjum)
 
 
